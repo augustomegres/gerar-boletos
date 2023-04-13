@@ -9,6 +9,8 @@
 
 Biblioteca em Node.js para geração de boletos utilizando PDFKit 
 
+Este é um fork do projeto gerar-boletos
+
 Geração de boletos para bancos:
 - Bradesco
 - Caixa
@@ -22,10 +24,10 @@ Geração de boletos para bancos:
 ### Install
 
 ```javascript
-npm i gerar-boletos
+npm i @megres/gerar-boletos
 ```
 ```javascript
-yarn add gerar-boletos
+yarn add @megres/gerar-boletos
 ```
 ### Exemplos de uso
 
