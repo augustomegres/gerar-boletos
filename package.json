@@ -1,6 +1,6 @@
 {
   "name": "@megres/gerar-boletos",
-  "version": "1.4.10",
+  "version": "1.5.0",
   "description": "Gerar boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
@@ -35,9 +35,9 @@
     "sicoob"
   ],
   "author": {
-    "name": "Rômulo Cabral Santos",
-    "email": "romulosanttos1@gmail.com",
-    "homepage": "https://romulosanttos.github.io/"
+    "name": "José Augusto Megres de Oliveira",
+    "email": "jose.megres@gmail.com",
+    "homepage": "https://megres.dev/"
   },
   "license": "ISC",
   "engines": {
